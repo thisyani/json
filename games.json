@@ -1,0 +1,18 @@
+{
+  "games":[
+    {
+      "name":"原神",
+      "version":"5.8",
+      "packageName":"com.miHoYo.Yuanshen",
+      "image":"genshin",
+      "downloadUrl":"https://repository.yani.xx.kg/genshin.apk"
+    },
+    {
+      "name":"崩坏：星穹铁道",
+      "version":"4.4",
+      "packageName":"com.miHoYo.hkrpg",
+      "image":"starrail",
+      "downloadUrl":"https://repository.yani.xx.kg/starrail.apk"
+    }
+  ]
+}
