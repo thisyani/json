@@ -2,17 +2,31 @@
   "games":[
     {
       "name":"原神",
-      "version":"5.8",
-      "packageName":"com.miHoYo.Yuanshen",
+      "version":"6.7",
+      "packageName":"com.miHoYo.GenshinImpact",
       "image":"genshin",
       "downloadUrl":"https://repository.yani.xx.kg/genshin.apk"
     },
     {
       "name":"崩坏：星穹铁道",
       "version":"4.4",
-      "packageName":"com.miHoYo.hkrpg",
+      "packageName":"com.HoYoverse.hkrpgoversea",
       "image":"starrail",
       "downloadUrl":"https://repository.yani.xx.kg/starrail.apk"
+    },
+    {
+      "name":"崩坏3",
+      "version":"8.9",
+      "packageName":"com.miHoYo.bh3global",
+      "image":"honkai3",
+      "downloadUrl":"https://repository.yani.xx.kg/honkai3.apk"
+    },
+    {
+      "name":"绝区零",
+      "version":"3.0",
+      "packageName":"com.HoYoverse.Nap",
+      "image":"zzz",
+      "downloadUrl":"https://repository.yani.xx.kg/zzz.apk"
     }
   ]
 }
