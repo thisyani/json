@@ -1,22 +1,35 @@
 [
   {
-    "version":"6.7",
     "packageName":"com.miHoYo.GenshinImpact",
-    "downloadUrl":"https://repository.yani.xx.kg/genshin.apk"
+    "version":"6.7",
+    "downloadUrl":"https://xxx/genshin.apk"
   },
+
+
   {
-    "version":"4.4",
     "packageName":"com.HoYoverse.hkrpgoversea",
-    "downloadUrl":"https://repository.yani.xx.kg/starrail.apk"
+    "version":"4.4",
+    "downloadUrl":"https://xxx/starrail.apk"
   },
+  
+
   {
-    "version":"8.9",
     "packageName":"com.miHoYo.bh3global",
-    "downloadUrl":"https://repository.yani.xx.kg/honkai3.apk"
+    "version":"8.9",
+    "downloadUrl":"https://xxx/starrail.apk"
   },
+
+
   {
-    "version":"3.0",
     "packageName":"com.HoYoverse.Nap",
-    "downloadUrl":"https://repository.yani.xx.kg/zzz.apk"
+    "version":"3.0",
+    "downloadUrl":"https://xxx/starrail.apk"
+  },
+
+
+  {
+    "packageName":"com.miHoYo.tot.glb",
+    "version":"5.5.1",
+    "downloadUrl":"https://xxx/starrail.apk"
   }
 ]
